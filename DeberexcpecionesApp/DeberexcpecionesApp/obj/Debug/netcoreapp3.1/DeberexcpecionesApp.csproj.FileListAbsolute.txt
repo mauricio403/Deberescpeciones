@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Excepciones\Deberescpeciones\DeberexcpecionesApp\DeberexcpecionesApp\bin\Debug\netcoreapp3.1\DeberexcpecionesApp.exe
+C:\Users\User\Desktop\Excepciones\Deberescpeciones\DeberexcpecionesApp\DeberexcpecionesApp\bin\Debug\netcoreapp3.1\DeberexcpecionesApp.deps.json
+C:\Users\User\Desktop\Excepciones\Deberescpeciones\DeberexcpecionesApp\DeberexcpecionesApp\bin\Debug\netcoreapp3.1\DeberexcpecionesApp.runtimeconfig.json
+C:\Users\User\Desktop\Excepciones\Deberescpeciones\DeberexcpecionesApp\DeberexcpecionesApp\bin\Debug\netcoreapp3.1\DeberexcpecionesApp.runtimeconfig.dev.json
+C:\Users\User\Desktop\Excepciones\Deberescpeciones\DeberexcpecionesApp\DeberexcpecionesApp\bin\Debug\netcoreapp3.1\DeberexcpecionesApp.dll
+C:\Users\User\Desktop\Excepciones\Deberescpeciones\DeberexcpecionesApp\DeberexcpecionesApp\bin\Debug\netcoreapp3.1\DeberexcpecionesApp.pdb
+C:\Users\User\Desktop\Excepciones\Deberescpeciones\DeberexcpecionesApp\DeberexcpecionesApp\obj\Debug\netcoreapp3.1\DeberexcpecionesApp.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Excepciones\Deberescpeciones\DeberexcpecionesApp\DeberexcpecionesApp\obj\Debug\netcoreapp3.1\DeberexcpecionesApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Excepciones\Deberescpeciones\DeberexcpecionesApp\DeberexcpecionesApp\obj\Debug\netcoreapp3.1\DeberexcpecionesApp.AssemblyInfo.cs
+C:\Users\User\Desktop\Excepciones\Deberescpeciones\DeberexcpecionesApp\DeberexcpecionesApp\obj\Debug\netcoreapp3.1\DeberexcpecionesApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Excepciones\Deberescpeciones\DeberexcpecionesApp\DeberexcpecionesApp\obj\Debug\netcoreapp3.1\DeberexcpecionesApp.dll
+C:\Users\User\Desktop\Excepciones\Deberescpeciones\DeberexcpecionesApp\DeberexcpecionesApp\obj\Debug\netcoreapp3.1\DeberexcpecionesApp.pdb
+C:\Users\User\Desktop\Excepciones\Deberescpeciones\DeberexcpecionesApp\DeberexcpecionesApp\obj\Debug\netcoreapp3.1\DeberexcpecionesApp.genruntimeconfig.cache
